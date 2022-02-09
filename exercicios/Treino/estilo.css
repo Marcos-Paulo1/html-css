@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(106, 173, 142);
+
+
+}
+p{
+    color: rgb(102, 21, 102);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+    h1{
+    color: rgb(10, 43, 70);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+h2{
+    color: rgb(44, 35, 105);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+li{
+    color: darkslategray;
+    font-family: fantasy;
+    font-size: 15px;
+}
+i{
+    color: red;
+    font-size: 30px;
+}
+a{
+    color: black;
+    font-family: fantasy;
+    font-weight: 20px;
+    font-synthesis: 15px;
+}
